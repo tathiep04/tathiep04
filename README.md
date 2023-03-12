@@ -8,7 +8,9 @@ I'm a self-taught passionate "fellow" about Data Science from Vietnam VN.
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tathiep04/)
    
   
-[![Hiep's GitHub stats](https://github-readme-stats.vercel.app/api?username=tathiep04&show_icons=true&theme=gruvbox)](https://github.com/tathiep04)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tathiep04&theme=zenburn)
+
 #### There is no top repository. But here is some of the updated repository that I have learned so far!
 
   <a href="https://github.com/tathiep04/Basic-Python-DSP301">
