@@ -9,7 +9,7 @@ I'm a self-taught passionate "fellow" about Data Science from Vietnam VN.
    
   
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tathiep04&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tathiep04&theme=onedark)
 
 #### There is no top repository. But here is some of the updated repository that I have learned so far!
 
